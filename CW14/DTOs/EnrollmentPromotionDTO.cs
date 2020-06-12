@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace CW14.DTOs
 {
-    public class EnrollmentPromotion
+    public class EnrollmentPromotionDTO
     {
         public int Semester { get; set; }
         public int IdStudy { get; set; }
